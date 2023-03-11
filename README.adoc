@@ -80,6 +80,7 @@ image:https://img.shields.io/github/stars/KDE/krita?style=social[GitHub Repo sta
 |image:https://img.shields.io/github/stars/darktable-org/darktable?style=social[GitHub Repo stars]
 // 🔍
 |link:https://bestpractices.coreinfrastructure.org/en/projects/470[image:https://bestpractices.coreinfrastructure.org/projects/470/badge[Open Source Security Foundation (OpenSSF) best practices badge]]
+// ===========================
 
 |===
 
