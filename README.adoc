@@ -1,15 +1,18 @@
 = Awesome Open Source Projects 
-
 :toc:
 :toc-placement!:
 
-> A curated list of awesome open source projects. 
+> A curated, categorized list of awesome open source projects. 
+
+image:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/121212_2_OpenSwissKnife.png/800px-121212_2_OpenSwissKnife.png[]
 
 toc::[]
 
-> Categories and projects are sorted alphabetically.
+`Categories and projects are sorted alphabetically.`
 
-== Graphics
+== Software
+
+=== Graphics
 
 [width="100%",cols="25%,25%,25%,25%",options="header",]
 |===
@@ -75,5 +78,5 @@ image:https://img.shields.io/github/stars/KDE/krita?style=social[GitHub Repo sta
 
 |===
 
-== Office
+=== Office
 
