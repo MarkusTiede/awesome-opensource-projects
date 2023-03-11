@@ -82,4 +82,4 @@ image:https://img.shields.io/github/stars/KDE/krita?style=social[GitHub Repo sta
 
 === Office
 
-== ¹ Awesome Open Source Project Criterias
+== ¹ Awesome Open Source Project Criteria
