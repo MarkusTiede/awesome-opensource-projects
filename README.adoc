@@ -2,7 +2,7 @@
 :toc:
 :toc-placement!:
 
-> A curated, categorized list of awesome open source projects. 
+> A curated, categorized list of awesome¹ open source projects. 
 
 link:https://commons.wikimedia.org/wiki/File:121212_2_OpenSwissKnife.png[image:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/121212_2_OpenSwissKnife.png/800px-121212_2_OpenSwissKnife.png[OpenSourceSwissKnife]]
 
@@ -11,6 +11,8 @@ toc::[]
 `Categories and projects are sorted alphabetically.`
 
 == Software
+
+=== Audio
 
 === Graphics
 
@@ -80,3 +82,4 @@ image:https://img.shields.io/github/stars/KDE/krita?style=social[GitHub Repo sta
 
 === Office
 
+== ¹ Awesome Open Source Project Criterias
