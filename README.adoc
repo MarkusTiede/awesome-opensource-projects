@@ -3,25 +3,76 @@
 :toc:
 :toc-placement!:
 
+ifdef::env-github[]
+:imagesdir: /foo/
+endif::[]
+
 A curated list of awesome open source projects
 
 toc::[]
 
-== Projects
+== Graphics
 
-[width="100%",cols="50%,50%",options="header",]
+[width="100%",cols="25%,25%,25%,25%",options="header",]
 |===
 
-|Name
-|Logo
+|ℹ️ Name
+|🌅 Logo
+|⭐ Stars
+|🔍 Insights
 
-|Name 1
-|Logo 1
+// ===========================
+//            Inkscape
+// ===========================
+// ℹ️
+|link:http://inkscape.org[Inkscape]
+// 🌅
+|image:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/128px-Inkscape_Logo.svg.png[Inkscape,64]
+// ⭐
+|image:https://img.shields.io/gitlab/stars/inkscape/inkscape?style=social[GitLab stars]
 
-|Name 2
-|Logo 2
+image:https://img.shields.io/github/stars/inkscape/inkscape?style=social[GitHub Repo stars]
+// 🔍
+|
 
-|Name 3
-|Logo 3
+// ===========================
+//            GIMP
+// ===========================
+// ℹ️
+|link:https://www.gimp.org[GIMP]
+// 🌅
+|image:https://upload.wikimedia.org/wikipedia/commons/b/be/Wilber-gimp.png[GIMP,64]
+// ⭐
+|image:https://img.shields.io/gitlab/stars/GNOME/gimp?gitlab_url=https%3A%2F%2Fgitlab.gnome.org&style=social[GitLab stars]
+
+image:https://img.shields.io/github/stars/GNOME/gimp?style=social[GitHub Repo stars]
+// 🔍
+|link:https://bestpractices.coreinfrastructure.org/en/projects/437[image:https://bestpractices.coreinfrastructure.org/projects/437/badge[Open Source Security Foundation (OpenSSF) best practices badge]]
+
+// ===========================
+//            Krita
+// ===========================
+// ℹ️
+|link:https://krita.org[Krita]
+// 🌅
+|image:https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/240px-Calligrakrita-base.svg.png[Krita,64]
+// ⭐
+|image:https://img.shields.io/gitlab/stars/graphics/krita?gitlab_url=https%3A%2F%2Finvent.kde.org&style=social[GitLab stars]
+
+image:https://img.shields.io/github/stars/KDE/krita?style=social[GitHub Repo stars]
+// 🔍
+|
+
+// ===========================
+//            Darktable
+// ===========================
+// ℹ️
+|link:https://www.darktable.org[Darktable]
+// 🌅
+|image:https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Darktable_icon.svg/240px-Darktable_icon.svg.png[Darktable,64]
+// ⭐
+|image:https://img.shields.io/github/stars/darktable-org/darktable?style=social[GitHub Repo stars]
+// 🔍
+|link:https://bestpractices.coreinfrastructure.org/en/projects/470[image:https://bestpractices.coreinfrastructure.org/projects/470/badge[Open Source Security Foundation (OpenSSF) best practices badge]]
 
 |===
