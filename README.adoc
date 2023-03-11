@@ -4,7 +4,7 @@
 
 > A curated, categorized list of awesome open source projects. 
 
-image:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/121212_2_OpenSwissKnife.png/800px-121212_2_OpenSwissKnife.png[]
+link:https://commons.wikimedia.org/wiki/File:121212_2_OpenSwissKnife.png[image:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/121212_2_OpenSwissKnife.png/800px-121212_2_OpenSwissKnife.png[OpenSourceSwissKnife]]
 
 toc::[]
 
