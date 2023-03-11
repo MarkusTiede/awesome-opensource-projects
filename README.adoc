@@ -1,4 +1,4 @@
-= Awesome Open Source Projects 
+= Awesome Open Source Projects link:https://awesome.re[image:https://awesome.re/badge.svg[Awesome]]
 :toc:
 :toc-placement!:
 
