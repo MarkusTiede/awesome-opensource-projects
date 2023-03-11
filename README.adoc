@@ -3,13 +3,11 @@
 :toc:
 :toc-placement!:
 
-ifdef::env-github[]
-:imagesdir: /foo/
-endif::[]
-
-A curated list of awesome open source projects
+> A curated list of awesome open source projects. 
 
 toc::[]
+
+> Categories and projects are sorted alphabetically.
 
 == Graphics
 
@@ -76,3 +74,6 @@ image:https://img.shields.io/github/stars/KDE/krita?style=social[GitHub Repo sta
 |link:https://bestpractices.coreinfrastructure.org/en/projects/470[image:https://bestpractices.coreinfrastructure.org/projects/470/badge[Open Source Security Foundation (OpenSSF) best practices badge]]
 
 |===
+
+== Office
+
