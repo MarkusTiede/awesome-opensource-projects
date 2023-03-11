@@ -37,6 +37,7 @@ toc::[]
 image:https://img.shields.io/github/stars/inkscape/inkscape?style=social[GitHub Repo stars]
 // 🔍
 |
+// ===========================
 
 // ===========================
 //            GIMP
@@ -51,6 +52,7 @@ image:https://img.shields.io/github/stars/inkscape/inkscape?style=social[GitHub 
 image:https://img.shields.io/github/stars/GNOME/gimp?style=social[GitHub Repo stars]
 // 🔍
 |link:https://bestpractices.coreinfrastructure.org/en/projects/437[image:https://bestpractices.coreinfrastructure.org/projects/437/badge[Open Source Security Foundation (OpenSSF) best practices badge]]
+// ===========================
 
 // ===========================
 //            Krita
@@ -65,6 +67,7 @@ image:https://img.shields.io/github/stars/GNOME/gimp?style=social[GitHub Repo st
 image:https://img.shields.io/github/stars/KDE/krita?style=social[GitHub Repo stars]
 // 🔍
 |
+// ===========================
 
 // ===========================
 //            Darktable
