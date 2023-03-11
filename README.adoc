@@ -1,0 +1,27 @@
+= Awesome Open Source Projects 
+
+:toc:
+:toc-placement!:
+
+A curated list of awesome open source projects
+
+toc::[]
+
+== Projects
+
+[width="100%",cols="50%,50%",options="header",]
+|===
+
+|Name
+|Logo
+
+|Name 1
+|Logo 1
+
+|Name 2
+|Logo 2
+
+|Name 3
+|Logo 3
+
+|===
