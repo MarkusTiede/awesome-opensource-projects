@@ -16,13 +16,14 @@ toc::[]
 
 === Graphics & Design
 
-[width="100%",cols="25%,25%,25%,25%",options="header",]
+[width="100%",cols="20%,20%,20%,20%,20%",options="header",]
 |===
 
 |ℹ️ Name
 |🌅 Logo
 |⭐ Stars
 |🔍 Insights
+|🆕 Install
 
 // ===========================
 //            Darktable
@@ -37,6 +38,9 @@ toc::[]
 |link:https://bestpractices.coreinfrastructure.org/en/projects/470[image:https://bestpractices.coreinfrastructure.org/projects/470/badge[Open Source Security Foundation (OpenSSF) best practices badge]]
 
 https://github.com/darktable-org/darktable
+|link:https://community.chocolatey.org/packages/darktable[🍫]
+
+link:https://formulae.brew.sh/cask/darktable[🍺]
 // ===========================
 
 // ===========================
@@ -54,6 +58,7 @@ image:https://img.shields.io/github/stars/GNOME/gimp?style=social[GitHub Repo st
 |link:https://bestpractices.coreinfrastructure.org/en/projects/437[image:https://bestpractices.coreinfrastructure.org/projects/437/badge[Open Source Security Foundation (OpenSSF) best practices badge]]
 
 https://gitlab.gnome.org/GNOME/gimp
+|
 // ===========================
 
 // ===========================
@@ -69,6 +74,7 @@ https://gitlab.gnome.org/GNOME/gimp
 image:https://img.shields.io/github/stars/inkscape/inkscape?style=social[GitHub Repo stars]
 // 🔍
 |https://gitlab.com/inkscape/inkscape
+|
 // ===========================
 
 // ===========================
@@ -84,6 +90,7 @@ image:https://img.shields.io/github/stars/inkscape/inkscape?style=social[GitHub 
 image:https://img.shields.io/github/stars/KDE/krita?style=social[GitHub Repo stars]
 // 🔍
 |https://invent.kde.org/graphics/krita
+|
 // ===========================
 
 // ===========================
@@ -97,6 +104,7 @@ image:https://img.shields.io/github/stars/KDE/krita?style=social[GitHub Repo sta
 |image:https://img.shields.io/github/stars/penpot/penpot?style=social[GitHub Repo stars]
 // 🔍
 |https://github.com/penpot/penpot
+|
 // ===========================
 
 // ===========================
@@ -110,6 +118,7 @@ image:https://img.shields.io/github/stars/KDE/krita?style=social[GitHub Repo sta
 |image:https://img.shields.io/github/stars/Beep6581/RawTherapee?style=social[GitHub Repo stars]
 // 🔍
 |https://github.com/Beep6581/RawTherapee
+|
 // ===========================
 
 |===
