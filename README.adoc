@@ -35,6 +35,8 @@ toc::[]
 |image:https://img.shields.io/github/stars/darktable-org/darktable?style=social[GitHub Repo stars]
 // 🔍
 |link:https://bestpractices.coreinfrastructure.org/en/projects/470[image:https://bestpractices.coreinfrastructure.org/projects/470/badge[Open Source Security Foundation (OpenSSF) best practices badge]]
+
+https://github.com/darktable-org/darktable
 // ===========================
 
 // ===========================
@@ -50,6 +52,8 @@ toc::[]
 image:https://img.shields.io/github/stars/GNOME/gimp?style=social[GitHub Repo stars]
 // 🔍
 |link:https://bestpractices.coreinfrastructure.org/en/projects/437[image:https://bestpractices.coreinfrastructure.org/projects/437/badge[Open Source Security Foundation (OpenSSF) best practices badge]]
+
+https://gitlab.gnome.org/GNOME/gimp
 // ===========================
 
 // ===========================
@@ -64,7 +68,7 @@ image:https://img.shields.io/github/stars/GNOME/gimp?style=social[GitHub Repo st
 
 image:https://img.shields.io/github/stars/inkscape/inkscape?style=social[GitHub Repo stars]
 // 🔍
-|
+|https://gitlab.com/inkscape/inkscape
 // ===========================
 
 // ===========================
@@ -79,7 +83,7 @@ image:https://img.shields.io/github/stars/inkscape/inkscape?style=social[GitHub 
 
 image:https://img.shields.io/github/stars/KDE/krita?style=social[GitHub Repo stars]
 // 🔍
-|
+|https://invent.kde.org/graphics/krita
 // ===========================
 
 // ===========================
@@ -92,7 +96,7 @@ image:https://img.shields.io/github/stars/KDE/krita?style=social[GitHub Repo sta
 // ⭐
 |image:https://img.shields.io/github/stars/Beep6581/RawTherapee?style=social[GitHub Repo stars]
 // 🔍
-|
+|https://github.com/Beep6581/RawTherapee
 // ===========================
 
 |===
