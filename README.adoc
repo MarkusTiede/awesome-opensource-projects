@@ -82,6 +82,19 @@ image:https://img.shields.io/github/stars/KDE/krita?style=social[GitHub Repo sta
 |
 // ===========================
 
+// ===========================
+//            RawTherapee
+// ===========================
+// ℹ️
+|link:http://rawtherapee.com[RawTherapee]
+// 🌅
+|image:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/RawTherapee_logo-circle.svg/240px-RawTherapee_logo-circle.svg.png[RawTherapee,64]
+// ⭐
+|image:https://img.shields.io/github/stars/Beep6581/RawTherapee?style=social[GitHub Repo stars]
+// 🔍
+|
+// ===========================
+
 |===
 
 === Office
