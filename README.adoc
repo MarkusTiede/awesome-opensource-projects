@@ -14,7 +14,7 @@ toc::[]
 
 === Audio
 
-=== Graphics
+=== Graphics & Design
 
 [width="100%",cols="25%,25%,25%,25%",options="header",]
 |===
@@ -84,6 +84,19 @@ image:https://img.shields.io/github/stars/inkscape/inkscape?style=social[GitHub 
 image:https://img.shields.io/github/stars/KDE/krita?style=social[GitHub Repo stars]
 // 🔍
 |https://invent.kde.org/graphics/krita
+// ===========================
+
+// ===========================
+//            Penpot
+// ===========================
+// ℹ️
+|link:https://penpot.app[Penpot]
+// 🌅
+|image:https://avatars.githubusercontent.com/u/30179644?s=200&v=4[Penpot,64]
+// ⭐
+|image:https://img.shields.io/github/stars/penpot/penpot?style=social[GitHub Repo stars]
+// 🔍
+|https://github.com/penpot/penpot
 // ===========================
 
 // ===========================
