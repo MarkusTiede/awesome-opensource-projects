@@ -25,18 +25,16 @@ toc::[]
 |🔍 Insights
 
 // ===========================
-//            Inkscape
+//            Darktable
 // ===========================
 // ℹ️
-|link:http://inkscape.org[Inkscape]
+|link:https://www.darktable.org[Darktable]
 // 🌅
-|image:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/128px-Inkscape_Logo.svg.png[Inkscape,64]
+|image:https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Darktable_icon.svg/240px-Darktable_icon.svg.png[Darktable,64]
 // ⭐
-|image:https://img.shields.io/gitlab/stars/inkscape/inkscape?style=social[GitLab stars]
-
-image:https://img.shields.io/github/stars/inkscape/inkscape?style=social[GitHub Repo stars]
+|image:https://img.shields.io/github/stars/darktable-org/darktable?style=social[GitHub Repo stars]
 // 🔍
-|
+|link:https://bestpractices.coreinfrastructure.org/en/projects/470[image:https://bestpractices.coreinfrastructure.org/projects/470/badge[Open Source Security Foundation (OpenSSF) best practices badge]]
 // ===========================
 
 // ===========================
@@ -55,6 +53,21 @@ image:https://img.shields.io/github/stars/GNOME/gimp?style=social[GitHub Repo st
 // ===========================
 
 // ===========================
+//            Inkscape
+// ===========================
+// ℹ️
+|link:http://inkscape.org[Inkscape]
+// 🌅
+|image:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/128px-Inkscape_Logo.svg.png[Inkscape,64]
+// ⭐
+|image:https://img.shields.io/gitlab/stars/inkscape/inkscape?style=social[GitLab stars]
+
+image:https://img.shields.io/github/stars/inkscape/inkscape?style=social[GitHub Repo stars]
+// 🔍
+|
+// ===========================
+
+// ===========================
 //            Krita
 // ===========================
 // ℹ️
@@ -67,19 +80,6 @@ image:https://img.shields.io/github/stars/GNOME/gimp?style=social[GitHub Repo st
 image:https://img.shields.io/github/stars/KDE/krita?style=social[GitHub Repo stars]
 // 🔍
 |
-// ===========================
-
-// ===========================
-//            Darktable
-// ===========================
-// ℹ️
-|link:https://www.darktable.org[Darktable]
-// 🌅
-|image:https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Darktable_icon.svg/240px-Darktable_icon.svg.png[Darktable,64]
-// ⭐
-|image:https://img.shields.io/github/stars/darktable-org/darktable?style=social[GitHub Repo stars]
-// 🔍
-|link:https://bestpractices.coreinfrastructure.org/en/projects/470[image:https://bestpractices.coreinfrastructure.org/projects/470/badge[Open Source Security Foundation (OpenSSF) best practices badge]]
 // ===========================
 
 |===
