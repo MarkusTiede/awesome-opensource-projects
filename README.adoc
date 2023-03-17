@@ -131,4 +131,33 @@ link:https://formulae.brew.sh/cask/krita[🍺]
 
 === Office
 
+[width="100%",cols="20%,20%,20%,20%,20%",options="header",]
+|===
+
+|ℹ️ Name
+|🌅 Logo
+|⭐ Stars
+|🔍 Insights
+|🆕 Install
+
+// ===========================
+//            LibreOffice
+// ===========================
+// ℹ️
+|link:http://libreoffice.org[LibreOffice]
+// 🌅
+|image:https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logo-libreoffice.svg/199px-Logo-libreoffice.svg.png[LibreOffice,64]
+// ⭐
+|image:https://img.shields.io/github/stars/libreoffice/core?style=social[GitHub Repo stars]
+// 🔍
+|link:https://bestpractices.coreinfrastructure.org/en/projects/307[image:https://bestpractices.coreinfrastructure.org/projects/307/badge[Open Source Security Foundation (OpenSSF) best practices badge]]
+
+https://github.com/libreoffice/core
+|link:https://community.chocolatey.org/packages/libreoffice-fresh[🍫]
+
+link:https://formulae.brew.sh/cask/libreoffice[🍺]
+// ===========================
+
+|===
+
 == ¹ Awesome Open Source Project Criteria
