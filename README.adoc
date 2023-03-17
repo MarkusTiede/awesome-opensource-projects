@@ -191,13 +191,13 @@ link:https://formulae.brew.sh/cask/krita[🍺]
 // ℹ️
 |link:http://libreoffice.org[LibreOffice]
 // 🌅
-|image:https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logo-libreoffice.svg/199px-Logo-libreoffice.svg.png[LibreOffice,64]
+|image:https://upload.wikimedia.org/wikipedia/commons/a/aa/Logo-libreoffice.svg[LibreOffice,64]
 // ⭐
-|image:https://img.shields.io/github/stars/libreoffice/core?style=social[GitHub Repo stars]
+|image:https://img.shields.io/github/stars/libreoffice?style=social[GitHub Repo stars]
 // 🔍
 |link:https://bestpractices.coreinfrastructure.org/en/projects/307[image:https://bestpractices.coreinfrastructure.org/projects/307/badge[Open Source Security Foundation (OpenSSF) best practices badge]]
 
-https://github.com/libreoffice/core
+https://github.com/libreoffice/
 |link:https://community.chocolatey.org/packages/libreoffice-fresh[🍫]
 
 link:https://formulae.brew.sh/cask/libreoffice[🍺]
