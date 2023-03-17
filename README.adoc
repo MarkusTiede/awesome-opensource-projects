@@ -14,6 +14,35 @@ toc::[]
 
 === Audio
 
+=== Communication
+
+[width="100%",cols="20%,20%,20%,20%,20%",options="header",]
+|===
+
+|ℹ️ Name
+|🌅 Logo
+|⭐ Stars
+|🔍 Insights
+|🆕 Install
+
+// ===========================
+//            Signal Desktop
+// ===========================
+// ℹ️
+|link:http://signal.org[Signal Desktop]
+// 🌅
+|image:https://upload.wikimedia.org/wikipedia/commons/8/8d/Signal-Logo.svg[Signal Desktop,64]
+// ⭐
+|image:https://img.shields.io/github/stars/signalapp/Signal-Desktop?style=social[GitHub Repo stars]
+// 🔍
+|https://github.com/signalapp/Signal-Desktop
+|link:https://community.chocolatey.org/packages/signal[🍫]
+
+link:https://formulae.brew.sh/cask/signal[🍺]
+// ===========================
+
+|===
+
 === Graphics & Design
 
 [width="100%",cols="20%,20%,20%,20%,20%",options="header",]
