@@ -26,16 +26,32 @@ toc::[]
 |🆕 Install
 
 // ===========================
-//            Signal Desktop
+//            Element
 // ===========================
 // ℹ️
-|link:http://signal.org[Signal Desktop]
+|link:https://www.element.io/[Element]
 // 🌅
-|image:https://upload.wikimedia.org/wikipedia/commons/8/8d/Signal-Logo.svg[Signal Desktop,64]
+|image:https://github.com/vector-im/logos/raw/master/element/Element%20Logomark%20%20-%20Transparent%20-%2064px.png[Element,64]
 // ⭐
-|image:https://img.shields.io/github/stars/signalapp/Signal-Desktop?style=social[GitHub Repo stars]
+|image:https://img.shields.io/github/stars/vector-im?style=social[GitHub Repo stars]
 // 🔍
-|https://github.com/signalapp/Signal-Desktop
+|https://github.com/vector-im
+|link:https://community.chocolatey.org/packages/element-desktop[🍫]
+
+link:https://formulae.brew.sh/cask/element[🍺]
+// ===========================
+
+// ===========================
+//            Signal
+// ===========================
+// ℹ️
+|link:https://signal.org[Signal]
+// 🌅
+|image:https://upload.wikimedia.org/wikipedia/commons/8/8d/Signal-Logo.svg[Signal,64]
+// ⭐
+|image:https://img.shields.io/github/stars/signalapp?style=social[GitHub Repo stars]
+// 🔍
+|https://github.com/signalapp/
 |link:https://community.chocolatey.org/packages/signal[🍫]
 
 link:https://formulae.brew.sh/cask/signal[🍺]
