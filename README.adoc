@@ -58,7 +58,9 @@ image:https://img.shields.io/github/stars/GNOME/gimp?style=social[GitHub Repo st
 |link:https://bestpractices.coreinfrastructure.org/en/projects/437[image:https://bestpractices.coreinfrastructure.org/projects/437/badge[Open Source Security Foundation (OpenSSF) best practices badge]]
 
 https://gitlab.gnome.org/GNOME/gimp
-|
+|link:https://community.chocolatey.org/packages/gimp[🍫]
+
+link:https://formulae.brew.sh/cask/gimp[🍺]
 // ===========================
 
 // ===========================
@@ -74,7 +76,9 @@ https://gitlab.gnome.org/GNOME/gimp
 image:https://img.shields.io/github/stars/inkscape/inkscape?style=social[GitHub Repo stars]
 // 🔍
 |https://gitlab.com/inkscape/inkscape
-|
+|link:https://community.chocolatey.org/packages/inkscape[🍫]
+
+link:https://formulae.brew.sh/cask/inkscape[🍺]
 // ===========================
 
 // ===========================
@@ -90,7 +94,9 @@ image:https://img.shields.io/github/stars/inkscape/inkscape?style=social[GitHub 
 image:https://img.shields.io/github/stars/KDE/krita?style=social[GitHub Repo stars]
 // 🔍
 |https://invent.kde.org/graphics/krita
-|
+|link:https://community.chocolatey.org/packages/krita[🍫]
+
+link:https://formulae.brew.sh/cask/krita[🍺]
 // ===========================
 
 // ===========================
@@ -118,7 +124,7 @@ image:https://img.shields.io/github/stars/KDE/krita?style=social[GitHub Repo sta
 |image:https://img.shields.io/github/stars/Beep6581/RawTherapee?style=social[GitHub Repo stars]
 // 🔍
 |https://github.com/Beep6581/RawTherapee
-|
+|link:https://community.chocolatey.org/packages/RawTherapee[🍫]
 // ===========================
 
 |===
