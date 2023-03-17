@@ -161,3 +161,4 @@ link:https://formulae.brew.sh/cask/libreoffice[🍺]
 |===
 
 == ¹ Awesome Open Source Project Criteria
+- 100+ public ⭐s or similar: badge must be available
