@@ -205,5 +205,34 @@ link:https://formulae.brew.sh/cask/libreoffice[🍺]
 
 |===
 
+=== Streaming
+
+[width="100%",cols="20%,20%,20%,20%,20%",options="header",]
+|===
+
+|ℹ️ Name
+|🌅 Logo
+|⭐ Stars
+|🔍 Insights
+|🆕 Install
+
+// ===========================
+//            OBS Studio
+// ===========================
+// ℹ️
+|link:https://obsproject.com[OBS Studio]
+// 🌅
+|image:https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Open_Broadcaster_Software_Logo.png/240px-Open_Broadcaster_Software_Logo.png[OBS Studio,64]
+// ⭐
+|image:https://img.shields.io/github/stars/obsproject?style=social[GitHub Repo stars]
+// 🔍
+|https://github.com/obsproject/
+|link:https://community.chocolatey.org/packages/obs-studio[🍫]
+
+link:https://formulae.brew.sh/cask/obs[🍺]
+// ===========================
+
+|===
+
 == ¹ Awesome Open Source Project Criteria
 - 100+ public ⭐s or similar: badge must be available
