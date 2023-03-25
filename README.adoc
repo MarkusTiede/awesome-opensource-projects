@@ -205,7 +205,7 @@ link:https://formulae.brew.sh/cask/libreoffice[🍺]
 
 |===
 
-=== Streaming
+=== Recording
 
 [width="100%",cols="20%,20%,20%,20%,20%",options="header",]
 |===
@@ -215,6 +215,20 @@ link:https://formulae.brew.sh/cask/libreoffice[🍺]
 |⭐ Stars
 |🔍 Insights
 |🆕 Install
+
+// ===========================
+//            Greenshot
+// ===========================
+// ℹ️
+|link:https://getgreenshot.org[Greenshot]
+// 🌅
+|image:https://upload.wikimedia.org/wikipedia/commons/1/12/Greenshot_logo.svg[Greenshot,64]
+// ⭐
+|image:https://img.shields.io/github/stars/greenshot?style=social[GitHub Repo stars]
+// 🔍
+|https://github.com/greenshot
+|link:https://community.chocolatey.org/packages/greenshot[🍫]
+// ===========================
 
 // ===========================
 //            OBS Studio
@@ -230,6 +244,20 @@ link:https://formulae.brew.sh/cask/libreoffice[🍺]
 |link:https://community.chocolatey.org/packages/obs-studio[🍫]
 
 link:https://formulae.brew.sh/cask/obs[🍺]
+// ===========================
+
+// ===========================
+//            ShareX
+// ===========================
+// ℹ️
+|link:https://getsharex.com[ShareX]
+// 🌅
+|image:https://upload.wikimedia.org/wikipedia/commons/d/d1/ShareX_Logo.png[ShareX,64]
+// ⭐
+|image:https://img.shields.io/github/stars/ShareX?style=social[GitHub Repo stars]
+// 🔍
+|https://github.com/ShareX
+|link:https://community.chocolatey.org/packages/sharex[🍫]
 // ===========================
 
 |===
