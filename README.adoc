@@ -2,7 +2,7 @@
 :toc:
 :toc-placement!:
 
-> A curated, categorized list of awesome¹ open source projects. 
+> A curated, categorized table of awesome¹ open source projects. 
 
 link:https://commons.wikimedia.org/wiki/File:121212_2_OpenSwissKnife.png[image:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/121212_2_OpenSwissKnife.png/800px-121212_2_OpenSwissKnife.png[OpenSourceSwissKnife]]
 
